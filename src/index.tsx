@@ -17,6 +17,3 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-//id: AKIAYXATM2CZD3OHWGN7
-//senha: GGDn6OeXOB5fmXtY9bg1OFBq+DXEQBM16Qn+8jkt
